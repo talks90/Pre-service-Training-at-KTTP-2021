@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "5fcb0d99be4032eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e2658695f549275",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "md/虛擬化應用平台部署.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a42266a184c89df",
+    "type": "split",
+    "children": [
+      {
+        "id": "e38851576c1285d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bafc6d7c2a28373a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a9288469513db87e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250
+  },
+  "right": {
+    "id": "9f6006bea3b027e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "02756024abd0b646",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57be7afd656f2ab4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "md/虛擬化應用平台部署.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9daed0ca0bd99823",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "836732053a340720",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7afba8f479d9ac31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "59ab53f9aa85c3a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "md/虛擬化應用平台部署.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "md/虛擬化應用平台部署.md",
+    "log/2021-01-06.md",
+    "md/電腦教室的環境建置.md",
+    "md/Linux 基礎檔案權限課後練習.md",
+    "md/Linux 課後評量攻略 - CentOS 8 + nginx.md",
+    "md/Linux 檔案系統.md",
+    "md/Linux 課後評量攻略 - CentOS 8.md",
+    "md/T5.7.1 Linux 課後評量攻略 - CentOS 8 + nginx.md",
+    "md/Linux 帳號與權限.md",
+    "md/T5.7.1 攻略 - CentOS 8 + nginx.md"
+  ]
+}

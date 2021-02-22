@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "434261a765358a2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c84e99d82df7968",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "log/2020-11-12.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25d1e81113db1be3",
+    "type": "split",
+    "children": [
+      {
+        "id": "89d1074283e2dd84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "600faa6ce09a6b95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "28805e0cd0f31d4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1219ee2e93a3820",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bac181741d8c207",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eec78b1ab91adb0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "log/2020-11-12.md"
+              }
+            }
+          },
+          {
+            "id": "97d36f624bfb8d82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc49412174884402",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "log/2020-11-12.md"
+              }
+            }
+          },
+          {
+            "id": "9dd08c4b24e95026",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "log/2020-11-12.md",
+    "md/乙太網路.md",
+    "log/2020-10-23.md",
+    "log/2020-10-26.md",
+    "log/2020-10-27.md",
+    "log/2020-10-28.md",
+    "log/2020-10-29.md",
+    "log/2020-10-30.md",
+    "log/2020-11-02.md",
+    "log/2020-11-03.md"
+  ]
+}

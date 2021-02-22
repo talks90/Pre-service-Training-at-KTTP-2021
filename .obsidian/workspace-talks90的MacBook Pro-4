@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "5fcb0d99be4032eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "628cd82175742be9",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "md/Docker Network.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a42266a184c89df",
+    "type": "split",
+    "children": [
+      {
+        "id": "e38851576c1285d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bafc6d7c2a28373a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a9288469513db87e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250
+  },
+  "right": {
+    "id": "9f6006bea3b027e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "02756024abd0b646",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57be7afd656f2ab4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "md/Docker Network.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9daed0ca0bd99823",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "836732053a340720",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7afba8f479d9ac31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "59ab53f9aa85c3a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "md/Docker Network.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "md/Docker Network.md",
+    "md/Docker Compose.md",
+    "md/Linux mariaDB 安裝.md",
+    "md/Docker.md",
+    "md/Linux 架設 Email 站台.md",
+    "log/2020-12-14.md",
+    "log/2020-12-16.md",
+    "md/Linux DNS 架設.md",
+    "md/Linux Drupal 安裝.md",
+    "md/Linux MySQL 安裝.md"
+  ]
+}

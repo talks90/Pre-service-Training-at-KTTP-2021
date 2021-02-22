@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "0e5fc757c07f3588",
+    "type": "split",
+    "children": [
+      {
+        "id": "367cc6884db29cd9",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "log/2021-02-05.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "218e70351dbb5a17",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbd948053bd3d815",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60e763f6f5d0a955",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6c894ad448de19e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 312
+  },
+  "right": {
+    "id": "be66b2d04c594daf",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5780727c2024be1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef71830a422c3038",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "log/2021-02-05.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60cd1eab2656ca72",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4412d25ee5ece6b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "log/2021-02-05.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 196
+  },
+  "lastOpenFiles": [
+    "log/2021-02-05.md",
+    "log/2021-01-14.md",
+    "log/2021-01-18.md",
+    "log/2021-01-19.md",
+    "log/2021-01-21.md",
+    "log/2021-01-25.md",
+    "log/2021-01-27.md",
+    "log/2021-01-28.md",
+    "log/2021-02-01.md",
+    "log/2021-02-04.md"
+  ]
+}

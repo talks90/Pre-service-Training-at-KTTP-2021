@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "434261a765358a2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c84e99d82df7968",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "md/Linux php-fpm 安裝.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25d1e81113db1be3",
+    "type": "split",
+    "children": [
+      {
+        "id": "89d1074283e2dd84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "600faa6ce09a6b95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "28805e0cd0f31d4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1219ee2e93a3820",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bac181741d8c207",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eec78b1ab91adb0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "md/Linux php-fpm 安裝.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97d36f624bfb8d82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc49412174884402",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "md/Linux php-fpm 安裝.md"
+              }
+            }
+          },
+          {
+            "id": "9dd08c4b24e95026",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "md/Linux php-fpm 安裝.md",
+    "md/Linux mariaDB 安裝.md",
+    "log/2020-11-10.md",
+    "md/Linux nginx 安裝.md",
+    "log/2020-11-06.md",
+    "log/2020-11-09.md",
+    "md/乙太網路.md",
+    "md/Linux nginx + mariaDB + php-fpm 安裝.md",
+    "log/2020-11-11.md",
+    "log/2020-11-12.md"
+  ]
+}

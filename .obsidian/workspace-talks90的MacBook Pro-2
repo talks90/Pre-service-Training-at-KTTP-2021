@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "f79e0f382af61505",
+    "type": "split",
+    "children": [
+      {
+        "id": "3308acbd8a3ee9bb",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "md/路由表.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1cc7e6eb786240fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cf8ee15e6a79112",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07503ae495991c60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8ebf9da71f444c70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211
+  },
+  "right": {
+    "id": "abf4a8463c95a8dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "56821c482e1237e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "637d669cc7eb1175",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "md/路由表.md"
+              }
+            }
+          },
+          {
+            "id": "346ee367c9ce08b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "95d4c0a02f97bb2a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "md/路由表.md"
+              }
+            }
+          },
+          {
+            "id": "ea48a0a4a5dc00c9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209
+  },
+  "lastOpenFiles": [
+    "md/路由表.md",
+    "md/路由簡介.md",
+    "md/路由器.md",
+    "md/乙太網路.md",
+    "md/交換器.md",
+    "md/IP定址.md",
+    "md/IP.md",
+    "log/2020-11-03.md",
+    "log/2020-11-02.md",
+    "log/2020-11-04.md"
+  ]
+}
